@@ -28,7 +28,6 @@
     <img src="https://img.shields.io/badge/editor-VScode-white?logo=visualstudiocode"><br>
     <img src="https://img.shields.io/badge/code-HTML5-white?logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/code-CSS-white?logo=CSS3&logoColor=white">
-    <img src="https://img.shields.io/badge/code-SCSS-white?logo=Sass&logoColor=white">
     <img src="https://img.shields.io/badge/code-JavaScript-white?logo=JavaScript&logoColor=white">
 </div>
 
