@@ -1,4 +1,4 @@
-<h1 align="center">Hey! 👋</h1>
+<h1 align="left">Hi there! 👋</h1>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ringerMW.ringerMW&"  />
 
 ###
