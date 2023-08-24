@@ -11,8 +11,7 @@
     <p align="left">
         - 🌱 I'm currently learning JavaScript/React<br>
         - 🌱 Starting my amazing web development journey<br>
-        - 🐈💕🐈 Proud owner of Mosya and Sima<br>
-        - 🙉 Hobbies: Anime, Read manga, Mmorpg
+        - 📫 How to reach me: alexanderbairamukov@yandex.ru
     </p>
 </div>
 
