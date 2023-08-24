@@ -8,12 +8,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ringerMW.ringerMW&"  />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -46,6 +40,12 @@
 
 ###
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ringerMW.ringerMW&"  />
+</div>
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -53,9 +53,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ringerMW&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ringerMW/ringerMW/output/snake.svg" alt="Snake animation" />
 
 ###
