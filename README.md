@@ -11,7 +11,7 @@
     <p align="left">
         - 🌱 I'm currently learning JavaScript/React<br>
         - 🌱 Starting my amazing web development journey<br>
-        - 📫 How to reach me: <a href="alexanderbairamukov@yandex.ru">@mail</a>
+        - 📫 How to reach me: <a href="#">alexanderbairamukov@yandex.ru</a>
     </p>
 </div>
 
