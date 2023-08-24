@@ -1,10 +1,4 @@
-<div align="center">
-  <img height="150" src="https://i.postimg.cc/zGJ7zyRq/prog-head.gif"  />
-</div>
-
-###
-
-<h1 align="left">Hey! 👋</h1>
+<h1 align="center">Hey! 👋</h1>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ringerMW.ringerMW&"  />
 
 ###
