@@ -5,7 +5,7 @@
 ###
 
 <h1 align="left">Hey! 👋</h1>
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ringerMW.ringerMW&"  />
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
@@ -46,12 +46,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ringerMW&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ringerMW.ringerMW&"  />
 </div>
 
 ###
